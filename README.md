@@ -1,30 +1,32 @@
-# README-.md
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=phobictimzz&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=timzz.png&github=gwxyz&pattern=leaf&colorPattern=%23eaeaea"/>
+<p align="center">
+<a href="https://trakteer.id/nyour_timz"><img align="center" src="https://github-cardname.caliph.my.id/api?name=phobictimzz&description=Hi%2C%20i'm%20a%20Newbie%20Programmer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/caliphdev?&usqp=CAU&backgroundColor=%23ecf0f1&instagram=timzz.png&github=gwxyz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://trakteer.id/nyour_timz"/></a>
+</p>
+ 
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@caliphdev?theme=rule34" alt="visitor.svg">
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rtwone)
-## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm Timzz, You Can call me as watim.
-<br>
-<h1 align="center">リヤン 〜<br>Timzz here!</h1>
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a"/>
+<h3 align="left">Contact with me:</h3>
+<p align="left"><a href="https://instagram.com/timzz.png" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
+<p align="left"><a href="//youtube.com/@444Excell"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//t.me/timzz.png"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
+</p>
 
-:page_with_curl: The script I use:
-<br>[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/gwxyz)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=NyouraTim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
+</p> 
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<p align="left">
+  <a href="https://github.com/NyouraTim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
 
+<p align="left">
+<a href="//github.com/NyouraTim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyouraTim"></a>
+</p>
+<!-- <h3 align="left">Listening Music</h3>
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
-![Shitara github stats](https://github-readme-stats.vercel.app/api?username=NyouraTim&show_icons=true&theme=tokyonight)
-
-## ABOUT ME
-```js
-const watim = () => {
-  return {
-    pronouns: "She" | "Her",
-    technologies:{
-        backEnd: "ExpressJs"
-    }
-  }
-}
-```
+-->
