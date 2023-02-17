@@ -1,11 +1,5 @@
-<p align="center">
-<a href="https://trakteer.id/nyour_timz"><img align="center" src="https://github-cardname.caliph.my.id/api?name=phobictimzz&description=Hi%2C%20i'm%20a%20Newbie%20Programmer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/caliphdev?&usqp=CAU&backgroundColor=%23ecf0f1&instagram=timzz.png&github=gwxyz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://trakteer.id/nyour_timz"/></a>
-</p>
- 
-<h3 align="left">Visitor</h3>
-<p align="center">
-<img src="https://count.caliphdev.my.id/get/@caliphdev?theme=rule34" alt="visitor.svg">
-</p>
+![My card name](https://cardivo.vercel.app/api?name=Phobictimzz&description=DOOOR,%20Welcome%20to%20github%20profile%20Phobictimzz%20&image=https://avatars.githubusercontent.com/u/90433321?v=4&backgroundColor=%23ecf0f1&instagram=timzz.png&github=gwxyz&pattern=leaf&colorPattern=%23eaeaea)
+
 
 ### Spotify Playing 🎧
 
