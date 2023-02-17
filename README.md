@@ -18,7 +18,7 @@
 </p> 
 
 <p align="left">
-  <a href="https://github.com/NyouraTim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/NyouraTim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyouraTim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
 <p align="left">
