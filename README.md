@@ -7,10 +7,10 @@
 <img src="https://count.caliphdev.my.id/get/@caliphdev?theme=rule34" alt="visitor.svg">
 </p>
 
-<h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/timzz.png" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//youtube.com/@444Excell"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
-<p align="left"><a href="//t.me/timzz.png"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=d5jDO41rReaZm7ikLJW66Q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 <p align="left">
