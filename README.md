@@ -13,9 +13,7 @@
 
 ### Spotify Playing 🎧
 
-<p align="center">
-  <a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=d5jDO41rReaZm7ikLJW66Q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NyouraTim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
