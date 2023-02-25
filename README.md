@@ -23,3 +23,16 @@
   <a href="https://github.com/NyouraTim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyouraTim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
+### About Me
+```js
+let profile = {
+newbie programmer: true,
+code: 9174,
+name: 'timzzdev',
+gender: 'male'
+message: 'Hai saya timzzdev, aku harap kita bisa berkenalan dengan baik
+}
+resolve(profile)
+```
