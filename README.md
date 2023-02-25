@@ -32,7 +32,7 @@ newbie_programmer: true,
 code: 9174,
 name: 'timzzdev',
 gender: 'male',
-message: 'haii, Im a newbie'
+message: 'hi, Im a newbie'
 }
 resolve(profile)
 ```
