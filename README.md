@@ -28,11 +28,11 @@
 ### About Me
 ```js
 let profile = {
-newbie programmer: true,
+newbie_programmer: true,
 code: 9174,
 name: 'timzzdev',
-gender: 'male'
-message: 'Hai saya timzzdev, aku harap kita bisa berkenalan dengan baik
+gender: 'male',
+message: 'haii, Im a newbie'
 }
 resolve(profile)
 ```
